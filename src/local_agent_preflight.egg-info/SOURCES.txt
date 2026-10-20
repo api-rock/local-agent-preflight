@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/agent_preflight/__init__.py
+src/agent_preflight/__main__.py
+src/agent_preflight/cli.py
+src/agent_preflight/models.py
+src/agent_preflight/probes.py
+src/agent_preflight/report.py
+src/local_agent_preflight.egg-info/PKG-INFO
+src/local_agent_preflight.egg-info/SOURCES.txt
+src/local_agent_preflight.egg-info/dependency_links.txt
+src/local_agent_preflight.egg-info/entry_points.txt
+src/local_agent_preflight.egg-info/top_level.txt
+tests/test_preflight.py
